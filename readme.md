@@ -1,4 +1,4 @@
-<h2 align="left">I'm Leonardo, known as Sarto, and I'm web developer that'll be game developer on future</h2>
+<h2 align="left">Actually Full Stack developer on Engrene Digital Solutions focusing in mobile development</h2>
 
 ###
 
