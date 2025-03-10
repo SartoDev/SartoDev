@@ -1,4 +1,4 @@
-<h2 align="left">Actually Full Stack developer on Engrene Digital Solutions focusing in mobile development</h2>
+<h2 align="left">Full Stack developer focusing in mobile development</h2>
 
 ###
 
